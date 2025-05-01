@@ -1,5 +1,14 @@
 ## Hi there 👋
+---
 
+### 🧠 Competitive Programming
+
+- Solved **300+ problems** on [LeetCode](https://leetcode.com/u/Aryan7N/)
+- Consistently practicing algorithms and data structures  
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)  
+[![LeetCard](https://leetcard.jacoblin.cool/ARYAN-GUPTA85?ext=contest)](https://leetcode.com/Aryan7N/)
+
+---
 <!--
 **Aryan457dwivedi/Aryan457dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
