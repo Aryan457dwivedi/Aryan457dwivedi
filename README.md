@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan457dwivedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aryan7N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan457dwivedi" height="30" width="40" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan457dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryan457dwivedi" /> </p>
   
   
   <!--
