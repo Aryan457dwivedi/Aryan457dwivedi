@@ -1,8 +1,28 @@
 ## Aryan Dwivedi 👋
 ---
+
 👨‍💻 I'm a passionate Computer Science student who loves solving real-world problems through code.  
 🔍 Currently focused on mastering Data Structures, Algorithms, and Backend Development.  
 💡 Enthusiastic about building intelligent systems and contributing to open-source projects.
+
+---
+
+<div align="center" style="border: 2px solid #FFA07A; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Tesseract-5D87BF?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF4081?style=for-the-badge&logo=darkreader&logoColor=white" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+<img src="https://img.shields.io/badge/Cursor_IDE-5F4B8B?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAYElEQVR4nGNgGAWjYBSMglEwCwYGZmBg+AgH0W0Y5bdu+v+D9P1ECRgYkYGL4j/j+wfjfwYGBgYGB0ZGxgYGZkZGhkZ2RkY2NjYz+DQCAgBPIB8uDJydg8H1AAATMEkgWgYVUrAAAAAElFTkSuQmCC" alt="Cursor IDE"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+
+</div>
 
 ---
 
