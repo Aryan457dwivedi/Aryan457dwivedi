@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh-13&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinash-Singh-13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwiveddi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
 </p>
 
 
