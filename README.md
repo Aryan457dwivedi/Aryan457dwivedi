@@ -8,14 +8,10 @@
 
 <div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-<div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
-<div align="center" style="border: 2px solid #FFB347; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwivedi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+<img src="https://streak-stats.demolab.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
 
 </div>
 
@@ -27,7 +23,9 @@
 
 </div>
 
-<h3>🧠 Competitive Programming</h3>
+---
+
+<h3 align="center">🧠 Competitive Programming</h3>
 
 <p align="center">
   <strong>• Solved <a href="https://leetcode.com/u/Aryan7N/">300+ problems</a> on LeetCode</strong><br>
@@ -44,12 +42,9 @@
   </a>
 </p>
 
-</div>
-
+---
 
 <div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
----
   
 ### 🤝 Connect with Me
 
@@ -61,5 +56,3 @@
 </a>
 
 </div>
-
----
