@@ -3,16 +3,27 @@
 
 <div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-### 🧠 Competitive Programming
+<div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-- Solved **300+ problems** on [LeetCode](https://leetcode.com/u/Aryan7N/)
-- Consistently practicing algorithms and data structures  
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)  
-[![LeetCard](https://leetcard.jacoblin.cool/Aryan7n?ext=contest)](https://leetcode.com/Aryan7N/)
+<h3>🧠 Competitive Programming</h3>
+
+<p align="center">
+  <strong>• Solved <a href="https://leetcode.com/u/Aryan7N/">300+ problems</a> on LeetCode</strong><br>
+  <strong>• Consistently practicing algorithms and data structures</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode" alt="LeetCode Badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Aryan7N/">
+    <img src="https://leetcard.jacoblin.cool/Aryan7n?ext=contest" alt="LeetCode Card"/>
+  </a>
+</p>
 
 </div>
 
----
 
 <div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
