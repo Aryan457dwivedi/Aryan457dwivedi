@@ -48,7 +48,9 @@
 
 
 <div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
+  
+---
+  
 ### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
