@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwivedi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
-<img src="https://streak-stats.demolab.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
 
 </div>
 
@@ -51,6 +51,7 @@
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://leetcode.com/Aryan7N/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
