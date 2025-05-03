@@ -5,6 +5,23 @@
 
 <div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
+<div align="center" style="border: 2px solid #FFB347; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwivedi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+
+</div>
+
+---
+
+<div align="center" style="border: 2px dashed #888; padding: 10px; border-radius: 10px;">
+
+<img src="https://komarev.com/ghpvc/?username=aryan457dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
 <h3>🧠 Competitive Programming</h3>
 
 <p align="center">
@@ -39,20 +56,3 @@
 </div>
 
 ---
-
-<div align="center" style="border: 2px solid #FFB347; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwivedi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
-
-</div>
-
----
-
-<div align="center" style="border: 2px dashed #888; padding: 10px; border-radius: 10px;">
-
-<img src="https://komarev.com/ghpvc/?username=aryan457dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
