@@ -14,6 +14,15 @@
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan457dwivedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aryan7N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan457dwivedi" height="30" width="40" /></a>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh-13&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinash-Singh-13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+</p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan457dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryan457dwivedi" /> </p>
   
   
