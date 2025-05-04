@@ -74,7 +74,7 @@
 ---
 
 <div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  
+
 ### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
@@ -84,5 +84,20 @@
 <a href="https://leetcode.com/Aryan7N/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/CS_2201640100083" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank 2" height="30" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/aryan644" target="_blank">
+  <img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Aryan73" target="_blank">
+  <img align="center" src="https://www.svgrepo.com/show/305884/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
 
 </div>
+
+
+
