@@ -1,5 +1,5 @@
 ## Aryan Dwivedi 👋
---
+---
 👨‍💻 I'm a passionate Computer Science student who loves solving real-world problems through code.  
 🔍 Currently focused on mastering Data Structures, Algorithms, and Backend Development.  
 💡 Enthusiastic about building intelligent systems and contributing to open-source projects.
