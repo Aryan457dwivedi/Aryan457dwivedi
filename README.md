@@ -7,7 +7,6 @@
 ---
 
 <div align="center" style="border: 2px solid #FFA07A; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
 ### 🛠️ Tech Stack
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
