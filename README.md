@@ -55,7 +55,7 @@
 <h3 align="center">🧠 Competitive Programming</h3>
 
 <p align="center">
-  <strong>• Solved <a href="https://leetcode.com/u/Aryan7N/">300+ problems</a> on LeetCode</strong><br>
+  <strong>• Solved <a href="https://leetcode.com/u/Aryan14/">100+ problems</a> on LeetCode</strong><br>
   <strong>• Consistently practicing algorithms and data structures</strong>
 </p>
 
