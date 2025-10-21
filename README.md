@@ -88,7 +88,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/Aryan7N/" target="_blank">
+<a href="https://leetcode.com/u/Aryann14/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 &nbsp;&nbsp;
