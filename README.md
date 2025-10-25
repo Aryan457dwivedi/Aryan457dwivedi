@@ -48,9 +48,10 @@
 <h3 align="center">🧠 Competitive Programming</h3>
 
 <p align="center">
-  <strong>• Solved <a href="https://leetcode.com/u/Aryann14/">100+ problems</a> on LeetCode</strong><br>
+  <strong>• Solved 250+ problems across various platforms</strong><br>
   <strong>• Consistently practicing algorithms and data structures</strong>
 </p>
+
 
 <p align="center">
   <a href="https://leetcode.com/Aryan7N/">
@@ -58,17 +59,14 @@
   </a>
 </p>
 
----
-
-<h3 align="center">🧩 Ratings</h3>
-
 <p align="center">
   <!-- ✅ Codeforces Dynamic Rating Card -->
   <a href="https://codeforces.com/profile/Aryan73" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan73" alt="Codeforces Stats" width="400"/>
   </a>
-  <br><br>
+</p>
 
+<p align="center">
   <!-- ✅ CodeChef Static Rating Badge -->
   <a href="https://www.codechef.com/users/knight_5" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef%20Rating-1622%20(3★)-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
