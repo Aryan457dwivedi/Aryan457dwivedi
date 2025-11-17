@@ -69,7 +69,7 @@
 <p align="center">
   <!-- ✅ CodeChef Static Rating Badge -->
   <a href="https://www.codechef.com/users/knight_5" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef%20Rating-1622%20(3★)-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
+    <img src="https://img.shields.io/badge/CodeChef%20Rating-1679%20(3★)-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
   </a>
 </p>
 
