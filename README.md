@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <a href="https://leetcode.com/Aryan7N/">
+  <a href="https://leetcode.com/Aryann14/">
     <img src="https://leetcard.jacoblin.cool/Aryann14?ext=contest" alt="LeetCode Card" width="400"/>
   </a>
 </p>
