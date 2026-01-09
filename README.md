@@ -8,7 +8,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 <div align="center" style="border: 2px solid #FFA07A; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="45" height="45"/>
@@ -30,7 +30,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 <div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan457dwivedi&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" width="49.5%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan457dwivedi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
@@ -45,7 +45,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 ---
 
-<h3 align="center">🧠 Competitive Programming</h3>
+<h3 align="center"> Competitive Programming</h3>
 
 <p align="center">
   <strong>• Solved 250+ problems across various platforms</strong><br>
@@ -88,7 +88,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 <div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -111,7 +111,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 ---
 
 <div align="center">
-    <h3><b>💻 Operating Systems</b></h3>
+    <h3><b>  Operating Systems</b></h3>
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></code>&nbsp;
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </div>
