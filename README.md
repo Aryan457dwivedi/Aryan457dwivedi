@@ -54,7 +54,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 </p>
 
 <p align="center">
-  <!-- ✅ Codeforces Dynamic Rating Card -->
+  
   <a href="https://codeforces.com/profile/Aryan73" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan73" alt="Codeforces Stats" width="400"/>
   </a>
@@ -63,7 +63,7 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 ---
 
-<!-- ✅ Active badges for platforms -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Active Badge"/>
   &nbsp;&nbsp;
