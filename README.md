@@ -221,7 +221,7 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 ## 🏆 Competitive Programming
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+ 
 </div>
 
 I genuinely enjoy the grind of competitive programming. There's a unique thrill in optimizing an O(n²) solution down to O(n log n) or finally getting that "Accepted" after 10 WAs. It's not just about solving problems - it's about thinking differently, recognizing patterns, and sometimes just being stubborn enough to not give up.
