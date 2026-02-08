@@ -16,7 +16,7 @@ Currently seeking **full-time opportunities** in software engineering where I ca
 
 **What I'm focused on:**
 - Building production-grade backend systems with Node.js and Python
-- Mastering algorithmic problem-solving (250+ problems solved)
+- Mastering algorithmic problem-solving (500+ problems solved)
 - Contributing to open-source projects
 - Learning distributed systems and cloud architecture
 
@@ -54,9 +54,9 @@ Currently seeking **full-time opportunities** in software engineering where I ca
 I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking.
 
 **Highlights:**
-- **250+ problems** solved across LeetCode, Codeforces, and CodeChef
-- Strong command of DSA: Trees, Graphs, DP, Greedy, Binary Search, and more
-- Regular contest participant with improving ratings
+- **500+ problems** solved across LeetCode, Codeforces, and CodeChef
+- Strong command of DSA: Array, Stack, Queue, String, Trees, Graphs, DP, Greedy, Binary Search, and more
+- Regular contest participant with improving my competitive programming skills
 
 <div align="center">
   
@@ -100,7 +100,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 I'm always open to discussing technology, collaborating on interesting projects, or exploring opportunities.
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](mailto:aryandwivedi644@gmail.com)
 - **LinkedIn:** [linkedin.com/in/aryan-dwivedi14](https://www.linkedin.com/in/aryan-dwivedi14/)
 - **Portfolio:** [aryansportfolio-site.vercel.app](https://aryansportfolio-site.vercel.app/)
 
