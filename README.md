@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0CF755&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Dwivedi;Full+Stack+Developer;Competitive+Programmer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0CF755&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Dwivedi;Full+Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -27,131 +27,194 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Final-year **Computer Science student** with a strong foundation in **Data Structures & Algorithms**, **Backend Development**, and **System Design**. Passionate about writing clean, scalable code and solving complex technical challenges.
+Hey! I'm a final-year CS student who loves building things that actually work and solve real problems. My journey started with competitive programming (250+ problems and counting!), which taught me to think algorithmically and write efficient code.
 
-🎯 **Currently seeking full-time opportunities** in Software Engineering
+These days, I'm deep into backend development and machine learning. There's something satisfying about designing a clean API or training a model that actually performs well. I've spent countless hours debugging Flask apps, optimizing database queries, and trying to understand why my Docker container won't start (spoiler: it's usually the port).
 
-**What drives me:**
-```
-🔹 Building production-grade backend systems with Node.js & Python
-🔹 Mastering algorithmic problem-solving (250+ problems solved)
-🔹 Contributing to impactful open-source projects
-🔹 Exploring distributed systems and cloud architecture
-```
+**Currently obsessed with:**
+- Building scalable backend systems (Node.js is my go-to, but Python's great too)
+- Solving algorithmic challenges on LeetCode and Codeforces
+- Computer vision projects with OpenCV and PyTorch
+- Learning system design the hard way - by breaking things in production
+
+**Looking for:** Full-time software engineering roles where I can write production code, learn from experienced developers, and contribute to meaningful projects.
+
+When I'm not coding, you'll find me participating in contests or tinkering with side projects. Always up for interesting tech discussions!
 
 ---
 
 ## 💻 Technical Arsenal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  <br><br>
+    <h3>These technologies represent my expertise and hands-on experience 🚀</h3>
 </div>
 
-<details open>
-<summary><b>Languages</b></summary>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="65" height="65" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="65" height="65" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="65" height="65" alt="Pandas" />
+      <br>Pandas
+    </td>
+  </tr>
+</table>
+</div>
+
+<!-- Detailed Categories -->
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
+    <h3><b>🤖 Artificial Intelligence & Machine Learning</b></h3>
+    <code><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/></code>
+    <code><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/></code>
+    <code><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" alt="OpenCV"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" height="50" alt="NumPy"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50" alt="Pandas"/></code>
+    <br>
+    <p><b>Expertise:</b> Machine Learning • Deep Learning • Computer Vision • CNN • XGBoost • Grad-CAM • SHAP</p>
+</div>
 
-</details>
+<div align="center">
+    <h3><b>☁️ Cloud & DevOps</b></h3>
+    <code><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS"/></code>
+    <code><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/></code>
+    <code><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></code>
+    <code><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/></code>
+    <code><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/></code>
+    <br>
+    <p><b>Tools:</b> AWS (EC2, S3) • Docker • CI/CD Pipelines • RESTful APIs • Git & GitHub</p>
+</div>
 
-<details open>
-<summary><b>Artificial Intelligence & Machine Learning</b></summary>
-<br>
+<div align="center">
+    <h3><b>💾 Databases</b></h3>
+    <code><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/></code>
+    <code><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/></code>
+    <br>
+    <p><b>Experience with:</b> MySQL • MongoDB • Database Design & Optimization</p>
+</div>
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-00599C?style=for-the-badge&logo=ai&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-009688?style=for-the-badge&logo=ai&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Data Science Stack</b></summary>
-<br>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Web Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Libraries & Frameworks</b></summary>
-<br>
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5D87BF?style=for-the-badge&logo=tesseract&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Developer Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Systems & Fundamentals</b></summary>
-<br>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=databricks&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=object&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-
-</details>
+<div align="center">
+    <h3><b>📚 Core Fundamentals</b></h3>
+    <p><b>Strong foundation in:</b> Data Structures • Algorithms • Object-Oriented Programming • Computer Networks • System Design</p>
+</div>
 
 ---
 
@@ -161,12 +224,13 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-> Sharpening problem-solving skills through consistent practice and competition
+I genuinely enjoy the grind of competitive programming. There's a unique thrill in optimizing an O(n²) solution down to O(n log n) or finally getting that "Accepted" after 10 WAs. It's not just about solving problems - it's about thinking differently, recognizing patterns, and sometimes just being stubborn enough to not give up.
 
-**📊 Achievements:**
-- ✅ **250+ problems** solved across multiple platforms
-- ✅ Strong command of **Trees, Graphs, DP, Greedy, Binary Search** & more
-- ✅ Active participant in **weekly contests**
+**My Progress:**
+- 250+ problems solved across platforms (still growing!)
+- Comfortable with Trees, Graphs, DP, Greedy, and Binary Search
+- Weekly contest participant - because nothing beats the adrenaline of live problem-solving
+- Best debugging moments happen at 2 AM during Codeforces rounds
 
 <div align="center">
   
@@ -200,21 +264,22 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 
 </div>
 
-**🔗 Quick Links:**  
+**Find me here:**  
 [LeetCode](https://leetcode.com/u/Aryann14/) • [Codeforces](https://codeforces.com/profile/Aryan73) • [CodeChef](https://www.codechef.com/users/knight_5)
 
 ---
 
-## 📚 Currently Learning
+## 📚 What I'm Learning Right Now
 
-```javascript
-const currentFocus = {
-  systemDesign: ["Scalability Patterns", "Microservices Architecture"],
-  cloud: ["AWS Fundamentals", "Docker & Kubernetes"],
-  database: ["Query Optimization", "Indexing Strategies"],
-  advanced: ["Distributed Systems", "Message Queues"]
-};
-```
+I believe in learning by building. Right now I'm focused on understanding how things work at scale - not just writing code that works on my laptop, but code that handles real traffic and doesn't fall apart under load.
+
+**Current focus areas:**
+- **System Design:** Reading about scalability patterns and microservices. Trying to understand why Netflix and Uber made the architectural choices they did
+- **Cloud & Containers:** Getting my hands dirty with AWS (EC2, S3) and Docker. Kubernetes is on the list
+- **Database Optimization:** Learning the difference between "works" and "works efficiently" - indexes, query optimization, all that good stuff
+- **Distributed Systems:** Message queues, eventual consistency, CAP theorem - the fun stuff that makes production systems reliable
+
+Currently reading *Designing Data-Intensive Applications* and building side projects to apply these concepts.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -222,9 +287,9 @@ const currentFocus = {
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-  <p>I'm always excited to discuss technology, collaborate on projects, or explore new opportunities.</p>
-</div>
+I love talking about tech - whether it's discussing the best way to optimize a database query, debating tabs vs spaces (spaces, obviously), or just sharing cool projects. If you're working on something interesting or want to chat about software development, hit me up!
+
+Also open to collaboration on open-source projects or hackathons. Let's build something cool together.
 
 <p align="center">
   <a href="mailto:your.email@example.com">
@@ -242,7 +307,7 @@ const currentFocus = {
 
 <div align="center">
   
-### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
+### 💭 *"1% Everyday*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -253,5 +318,5 @@ const currentFocus = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <p><i>Thanks for stopping by! Happy coding! 🚀</i></p>
 </div>
