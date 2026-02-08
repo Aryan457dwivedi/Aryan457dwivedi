@@ -1,14 +1,17 @@
-## Hey there, I'm Aryan Dwivedi  
+## 👋 Hey there, I'm **Aryan Dwivedi**
+
+🌐 Check out my portfolio:  
+👉 **https://aryansportfolio-site.vercel.app/**
 
 I'm a passionate **Computer Science student** who loves solving real-world problems through code.  
 Currently focused on mastering **Data Structures, Algorithms, and Backend Development**.  
-Enthusiastic about building intelligent systems and contributing to open-source projects.
+I enjoy building intelligent systems, web apps, and contributing to open-source.
 
 ---
 
 <div align="center" style="border: 2px solid #FFA07A; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-### Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="45" height="45"/>
@@ -28,24 +31,20 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 ---
 
-<div align="center" style="border: 2px solid #FF6EC7; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+## 📈 Profile Views
 
-
-
-
-<div align="center" style="border: 2px dashed #888; padding: 10px; border-radius: 10px;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=aryan457dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
-<h3 align="center"> Competitive Programming</h3>
+## 🧠 Competitive Programming
 
-<p align="center">
-  <strong>• Solved 250+ problems across various platforms</strong><br>
-  <strong>• Consistently practicing algorithms and data structures</strong>
-</p>
-
+### 💪 Achievements
+- **250+ problems solved** across multiple platforms
+- Strong focus on **algorithms & data structures**
+- Regularly participating in contests
 
 <p align="center">
   <a href="https://leetcode.com/Aryann14/">
@@ -54,15 +53,10 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 </p>
 
 <p align="center">
-  
   <a href="https://codeforces.com/profile/Aryan73" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan73" alt="Codeforces Stats" width="400"/>
   </a>
 </p>
-
-
----
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Active Badge"/>
@@ -74,38 +68,40 @@ Enthusiastic about building intelligent systems and contributing to open-source 
 
 ---
 
-<div align="center" style="border: 2px solid #7FDBFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
-### Connect with Me
-
-<a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Aryann14/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/knight_5" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/codechef.png" alt="CodeChef" height="30" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Aryan73" target="_blank">
-  <img align="center" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/50/FFFFFF/external-codeforces-programming-competitions-and-contests-programming-community-logo-light-tal-revivo.png" alt="Codeforces" height="30" width="40" />
-</a>
-
-</div>
-
----
+## 🔗 Connect with Me
 
 <div align="center">
-    <h3><b>  Operating Systems</b></h3>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></code>&nbsp;
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  <a href="https://www.linkedin.com/in/aryan-dwivedi14/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aryann14/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/knight_5" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/codechef.png" alt="CodeChef" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Aryan73" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/50/FFFFFF/external-codeforces-programming-competitions-and-contests-programming-community-logo-light-tal-revivo.png" alt="Codeforces" height="30" width="40" />
+  </a>
 </div>
 
 ---
 
+## 🖥️ Operating Systems
+
+<div align="center">
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></code>
+  &nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+</div>
+
+---
+
+## ✨ Motto
+
 <p align="center">
-  ✨ <i>"Strive to write code that not only works but inspires clarity and creativity."</i> ✨
+  💡 _"Strive to write code that not only works but inspires clarity and creativity."_ 💻
 </p>
