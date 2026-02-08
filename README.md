@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-<h1 align="center">Hi there 👋, I'm Aryan Dwivedi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0CF755&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Dwivedi;Full+Stack+Developer;Competitive+Programmer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <b>Computer Science Undergraduate</b> • <b>Backend Developer</b> • <b>Problem Solver</b>
@@ -42,6 +44,14 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 ---
 
 ## 💻 Technical Arsenal
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  <br><br>
+</div>
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -92,12 +102,22 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 
 ## 🏆 Competitive Programming
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
+
 > Sharpening problem-solving skills through consistent practice and competition
 
 **📊 Achievements:**
 - ✅ **250+ problems** solved across multiple platforms
 - ✅ Strong command of **Trees, Graphs, DP, Greedy, Binary Search** & more
 - ✅ Active participant in **weekly contests**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### Platform Stats
 
@@ -132,6 +152,10 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 
 ## 📂 Featured Projects
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+</div>
+
 > Pin your top repositories to showcase them here!
 
 <!-- Template for adding projects:
@@ -165,6 +189,13 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="48%" />
+
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -181,11 +212,17 @@ const currentFocus = {
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always excited to discuss technology, collaborate on projects, or explore new opportunities.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+  <br><br>
+  <p>I'm always excited to discuss technology, collaborate on projects, or explore new opportunities.</p>
+</div>
 
 <p align="center">
   <a href="mailto:your.email@example.com">
@@ -205,6 +242,8 @@ I'm always excited to discuss technology, collaborate on projects, or explore ne
   
 ### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
@@ -212,5 +251,7 @@ I'm always excited to discuss technology, collaborate on projects, or explore ne
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
