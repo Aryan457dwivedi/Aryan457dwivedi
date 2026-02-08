@@ -1,71 +1,110 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-# Aryan Dwivedi
+<h1 align="center">Hi there 👋, I'm Aryan Dwivedi</h1>
 
-**Computer Science Undergraduate** | **Backend Development** | **Problem Solver**
+<p align="center">
+  <b>Computer Science Undergraduate</b> • <b>Backend Developer</b> • <b>Problem Solver</b>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://aryansportfolio-site.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dwivedi14/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aryann14/)
-
----
-
-## About Me
-
-I'm a final-year Computer Science student with a strong foundation in **Data Structures & Algorithms**, **Backend Development**, and **System Design**. I'm passionate about writing clean, scalable code and solving complex technical problems.
-
-Currently seeking **full-time opportunities** in software engineering where I can contribute to building impactful products and grow as a developer.
-
-**What I'm focused on:**
-- Building production-grade backend systems with Node.js and Python
-- Mastering algorithmic problem-solving (250+ problems solved)
-- Contributing to open-source projects
-- Learning distributed systems and cloud architecture
-
----
-
-## Technical Skills
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Machine Learning & Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5D87BF?style=flat&logo=tesseract&logoColor=white)
-
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://aryansportfolio-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-dwivedi14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Aryann14/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Competitive Programming
+## 🚀 About Me
 
-I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking.
+Final-year **Computer Science student** with a strong foundation in **Data Structures & Algorithms**, **Backend Development**, and **System Design**. Passionate about writing clean, scalable code and solving complex technical challenges.
 
-**Highlights:**
-- **250+ problems** solved across LeetCode, Codeforces, and CodeChef
-- Strong command of DSA: Trees, Graphs, DP, Greedy, Binary Search, and more
-- Regular contest participant with improving ratings
+🎯 **Currently seeking full-time opportunities** in Software Engineering
+
+**What drives me:**
+```
+🔹 Building production-grade backend systems with Node.js & Python
+🔹 Mastering algorithmic problem-solving (250+ problems solved)
+🔹 Contributing to impactful open-source projects
+🔹 Exploring distributed systems and cloud architecture
+```
+
+---
+
+## 💻 Technical Arsenal
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frameworks & Technologies</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>ML & Computer Vision</b></summary>
+<br>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5D87BF?style=for-the-badge&logo=tesseract&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Developer Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 🏆 Competitive Programming
+
+> Sharpening problem-solving skills through consistent practice and competition
+
+**📊 Achievements:**
+- ✅ **250+ problems** solved across multiple platforms
+- ✅ Strong command of **Trees, Graphs, DP, Greedy, Binary Search** & more
+- ✅ Active participant in **weekly contests**
+
+### Platform Stats
 
 <div align="center">
   
 <a href="https://leetcode.com/Aryann14/">
-  <img src="https://leetcard.jacoblin.cool/Aryann14?ext=contest" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/Aryann14?ext=contest" width="500" alt="LeetCode Stats"/>
 </a>
 
 </div>
@@ -73,7 +112,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 <div align="center">
   
 <a href="https://codeforces.com/profile/Aryan73">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan73" width="500"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Aryan73" width="500" alt="Codeforces Stats"/>
 </a>
 
 </div>
@@ -86,63 +125,92 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 </div>
 
-**Profiles:**
-- [LeetCode](https://leetcode.com/u/Aryann14/) • [Codeforces](https://codeforces.com/profile/Aryan73) • [CodeChef](https://www.codechef.com/users/knight_5)
+**🔗 Quick Links:**  
+[LeetCode](https://leetcode.com/u/Aryann14/) • [Codeforces](https://codeforces.com/profile/Aryan73) • [CodeChef](https://www.codechef.com/users/knight_5)
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
-<!-- Add your top 3-4 projects here when you pin them to your profile -->
-<!-- Example format:
+> Pin your top repositories to showcase them here!
 
-### 🚀 [Project Name](link)
-Brief description of what it does and the tech stack used.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Features:** Feature 1, Feature 2, Feature 3
-- **Impact/Results:** Quantifiable outcome if available
+<!-- Template for adding projects:
+
+### 🚀 [Project Name](GitHub-Link)
+**Brief one-liner description**
+
+- 🛠️ **Tech Stack:** React, Node.js, MongoDB, Express
+- ✨ **Key Features:** Feature 1 • Feature 2 • Feature 3
+- 📈 **Impact:** Quantifiable results or learning outcomes
+
+---
 
 -->
 
-> 💡 **Tip:** Pin your best repositories to showcase them here!
+<div align="center">
+  <i>🔨 Working on exciting projects - check pinned repos below!</i>
+</div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
 </div>
 
 ---
 
-## What I'm Learning
+## 📚 Currently Learning
 
-- 🔧 Advanced System Design patterns
-- ☁️ Cloud computing (AWS/GCP fundamentals)
-- 🐳 Docker and containerization
-- 📊 Database optimization and indexing strategies
+```javascript
+const currentFocus = {
+  systemDesign: ["Scalability Patterns", "Microservices Architecture"],
+  cloud: ["AWS Fundamentals", "Docker & Kubernetes"],
+  database: ["Query Optimization", "Indexing Strategies"],
+  advanced: ["Distributed Systems", "Message Queues"]
+};
+```
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect!
 
-I'm always open to discussing technology, collaborating on interesting projects, or exploring opportunities.
+I'm always excited to discuss technology, collaborate on projects, or explore new opportunities.
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/aryan-dwivedi14](https://www.linkedin.com/in/aryan-dwivedi14/)
-- **Portfolio:** [aryansportfolio-site.vercel.app](https://aryansportfolio-site.vercel.app/)
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-dwivedi14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aryansportfolio-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
