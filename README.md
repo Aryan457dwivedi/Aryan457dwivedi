@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
 # Aryan Dwivedi
 
 **Computer Science Undergraduate** | **Backend Development** | **Problem Solver**
@@ -16,7 +20,7 @@ Currently seeking **full-time opportunities** in software engineering where I ca
 
 **What I'm focused on:**
 - Building production-grade backend systems with Node.js and Python
-- Mastering algorithmic problem-solving (500+ problems solved)
+- Mastering algorithmic problem-solving (250+ problems solved)
 - Contributing to open-source projects
 - Learning distributed systems and cloud architecture
 
@@ -54,9 +58,9 @@ Currently seeking **full-time opportunities** in software engineering where I ca
 I actively participate in competitive programming to sharpen my problem-solving skills and algorithmic thinking.
 
 **Highlights:**
-- **500+ problems** solved across LeetCode, Codeforces, and CodeChef
-- Strong command of DSA: Array, Stack, Queue, String, Trees, Graphs, DP, Greedy, Binary Search, and more
-- Regular contest participant with improving my competitive programming skills
+- **250+ problems** solved across LeetCode, Codeforces, and CodeChef
+- Strong command of DSA: Trees, Graphs, DP, Greedy, Binary Search, and more
+- Regular contest participant with improving ratings
 
 <div align="center">
   
@@ -87,6 +91,35 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 ---
 
+## Featured Projects
+
+<!-- Add your top 3-4 projects here when you pin them to your profile -->
+<!-- Example format:
+
+### 🚀 [Project Name](link)
+Brief description of what it does and the tech stack used.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Key Features:** Feature 1, Feature 2, Feature 3
+- **Impact/Results:** Quantifiable outcome if available
+
+-->
+
+> 💡 **Tip:** Pin your best repositories to showcase them here!
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
 ## What I'm Learning
 
 - 🔧 Advanced System Design patterns
@@ -100,7 +133,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 I'm always open to discussing technology, collaborating on interesting projects, or exploring opportunities.
 
-- **Email:** [your.email@example.com](mailto:aryandwivedi644@gmail.com)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [linkedin.com/in/aryan-dwivedi14](https://www.linkedin.com/in/aryan-dwivedi14/)
 - **Portfolio:** [aryansportfolio-site.vercel.app](https://aryansportfolio-site.vercel.app/)
 
