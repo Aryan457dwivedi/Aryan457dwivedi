@@ -150,57 +150,6 @@ Final-year **Computer Science student** with a strong foundation in **Data Struc
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-</div>
-
-> Pin your top repositories to showcase them here!
-
-<!-- Template for adding projects:
-
-### 🚀 [Project Name](GitHub-Link)
-**Brief one-liner description**
-
-- 🛠️ **Tech Stack:** React, Node.js, MongoDB, Express
-- ✨ **Key Features:** Feature 1 • Feature 2 • Feature 3
-- 📈 **Impact:** Quantifiable results or learning outcomes
-
----
-
--->
-
-<div align="center">
-  <i>🔨 Working on exciting projects - check pinned repos below!</i>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="48%" />
-
-</div>
-
-<div align="center">
-  
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 ```javascript
@@ -219,8 +168,6 @@ const currentFocus = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-  <br><br>
   <p>I'm always excited to discuss technology, collaborate on projects, or explore new opportunities.</p>
 </div>
 
@@ -243,8 +190,6 @@ const currentFocus = {
 ### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
