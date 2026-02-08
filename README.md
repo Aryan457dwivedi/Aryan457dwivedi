@@ -87,35 +87,6 @@ I actively participate in competitive programming to sharpen my problem-solving 
 
 ---
 
-## Featured Projects
-
-<!-- Add your top 3-4 projects here when you pin them to your profile -->
-<!-- Example format:
-
-### 🚀 [Project Name](link)
-Brief description of what it does and the tech stack used.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Features:** Feature 1, Feature 2, Feature 3
-- **Impact/Results:** Quantifiable outcome if available
-
--->
-
-> 💡 **Tip:** Pin your best repositories to showcase them here!
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## What I'm Learning
 
 - 🔧 Advanced System Design patterns
