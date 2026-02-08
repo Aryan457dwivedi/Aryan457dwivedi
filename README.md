@@ -227,14 +227,13 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 I genuinely enjoy the grind of competitive programming. There's a unique thrill in optimizing an O(n²) solution down to O(n log n) or finally getting that "Accepted" after 10 WAs. It's not just about solving problems - it's about thinking differently, recognizing patterns, and sometimes just being stubborn enough to not give up.
 
 **My Progress:**
-- 250+ problems solved across platforms (still growing!)
-- Comfortable with Trees, Graphs, DP, Greedy, and Binary Search
+- 500+ problems solved across platforms (still growing!)
+- Comfortable with Arrays, Strings, Stack, Queues, Trees, Graphs, DP, Greedy, and Binary Search
 - Weekly contest participant - because nothing beats the adrenaline of live problem-solving
-- Best debugging moments happen at 2 AM during Codeforces rounds
+- Best debugging moments happen at 2 AM 
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
