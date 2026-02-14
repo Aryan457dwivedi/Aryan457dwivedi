@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aryansportfolio-site.vercel.app/">
+  <a href="https://www.aryansportfolio.site/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aryan-dwivedi14/">
@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/u/Aryann14/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aryandwivedi644@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -296,7 +296,7 @@ Also open to collaboration on open-source projects or hackathons. Let's build so
   <a href="https://www.linkedin.com/in/aryan-dwivedi14/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://aryansportfolio-site.vercel.app/">
+  <a href="https://www.aryansportfolio.site/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
