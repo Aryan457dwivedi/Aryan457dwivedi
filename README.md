@@ -7,7 +7,6 @@
 <p align="center">
   <b>Computer Science Undergraduate</b> • <b>Backend Developer</b> • <b>Problem Solver</b>
 </p>
-
 <p align="center">
   </a>
   <a href="https://www.linkedin.com/in/aryan-dwivedi14/">
