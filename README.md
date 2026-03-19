@@ -41,10 +41,10 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 
 ---
 
-## 💻 Technical Arsenal
+##  Technical Arsenal
 
 <div align="center">
-    <h3>These technologies represent my expertise and hands-on experience 🚀</h3>
+    <h3>These technologies represent my expertise and hands-on experience </h3>
 </div>
 
 <table>
@@ -177,7 +177,7 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 <br>
 
 <div align="center">
-    <h3><b>🤖 Artificial Intelligence & Machine Learning</b></h3>
+    <h3><b> Artificial Intelligence & Machine Learning</b></h3>
     <code><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/></code>
     <code><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/></code>
     <code><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" alt="OpenCV"/></code>
@@ -189,7 +189,7 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 </div>
 
 <div align="center">
-    <h3><b>☁️ Cloud & DevOps</b></h3>
+    <h3><b> Cloud & DevOps</b></h3>
     <code><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS"/></code>
     <code><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/></code>
     <code><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></code>
@@ -200,7 +200,7 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 </div>
 
 <div align="center">
-    <h3><b>💾 Databases</b></h3>
+    <h3><b> Databases</b></h3>
     <code><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/></code>
     <code><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/></code>
     <br>
@@ -208,13 +208,13 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 </div>
 
 <div align="center">
-    <h3><b>📚 Core Fundamentals</b></h3>
+    <h3><b> Core Fundamentals</b></h3>
     <p><b>Strong foundation in:</b> Data Structures • Algorithms • Object-Oriented Programming • Computer Networks • System Design</p>
 </div>
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
  
@@ -264,7 +264,7 @@ I genuinely enjoy the grind of competitive programming. There's a unique thrill 
 
 ---
 
-## 📚 What I'm Learning Right Now
+##  What I'm Learning Right Now
 
 I believe in learning by building. Right now I'm focused on understanding how things work at scale - not just writing code that works on my laptop, but code that handles real traffic and doesn't fall apart under load.
 
@@ -279,7 +279,7 @@ Currently reading *Designing Data-Intensive Applications* and building side proj
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I love talking about tech - whether it's discussing the best way to optimize a database query, debating tabs vs spaces (spaces, obviously), or just sharing cool projects. If you're working on something interesting or want to chat about software development, hit me up!
 
@@ -309,5 +309,5 @@ Also open to collaboration on open-source projects or hackathons. Let's build so
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   <br>
-  <p><i>Thanks for stopping by! Happy coding! 🚀</i></p>
+  <p><i>Thanks for stopping by! Happy coding! </i></p>
 </div>
