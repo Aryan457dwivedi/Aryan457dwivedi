@@ -299,7 +299,7 @@ Also open to collaboration on open-source projects or hackathons. Let's build so
 
 <div align="center">
   
-### 💭 *"1% Everyday*
+### *"1% Everyday*
 
 
 </div>
