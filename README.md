@@ -45,7 +45,6 @@ When I'm not coding, you'll find me participating in contests or tinkering with 
 <div align="center">
     <h3>These technologies represent my expertise and hands-on experience </h3>
 </div>
-
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
