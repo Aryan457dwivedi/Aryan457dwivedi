@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=0CF755&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Dwivedi;Full+Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
